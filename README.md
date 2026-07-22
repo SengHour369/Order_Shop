@@ -1,3 +1,6 @@
+https://e-shop-1-m034.onrender.com/swagger-ui/index.html (test API)
+https://admin-e-shop-6cfm.vercel.app/ (frontend)
+
 # Returns Module Task Breakdown
 
 ## Module
